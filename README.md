@@ -1,0 +1,1 @@
+# Minimizacao_de_automatos
