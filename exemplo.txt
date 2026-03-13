@@ -1,0 +1,17 @@
+# Automato Finito Determinístico
+# Alfabeto:
+A 0 1
+# Estados:
+Q q0 q1 q2 q3 q4 q5 q6 q7
+# Estado Inicial:
+q q0
+# Estados Finais:
+F q2
+# Transições
+T q0 0 q1
+T q0 1 q5
+T q1 0 q6
+T q1 1 q2
+T q2 0 q0
+T q2 1 q2
+T q3 0 q2
